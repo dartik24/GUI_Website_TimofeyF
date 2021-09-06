@@ -1,0 +1,23 @@
+/*Setting up custom coloring for the header body and title*/
+h1 {
+    color:yellowgreen;
+    background-color: antiquewhite;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+a {
+    color: yellowgreen;
+}
+
+/*Setting up table borders for a more organized look*/
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+table td{
+    border: 1px solid black
+}
